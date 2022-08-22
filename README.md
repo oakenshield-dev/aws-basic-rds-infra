@@ -40,4 +40,3 @@ brew install awscli
 
 ### Configurar credenciales de cuenta de AWS 
 
-pruebas
